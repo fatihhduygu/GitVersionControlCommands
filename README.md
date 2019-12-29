@@ -95,7 +95,7 @@
 
 
 ### Versiyon Değiştirme 
-`git checkout (version hash code(first 6 number)) --.`<br>
+`git checkout (version hash code(first 6 number)) -- .`<br>
 
 ### Githuba Proje Göndermek
 
@@ -137,7 +137,7 @@
 - add ve commit işlemi yapılır.<br>
 - push işlemi yapılır.<br>
 - gitignore dosyasını düzenlemek için ;<br>
-` notepad .gitignore`<br>
+`.notepad .gitignore`<br>
 
 
 ### Git Branch
