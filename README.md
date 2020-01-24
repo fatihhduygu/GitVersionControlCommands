@@ -89,7 +89,7 @@
 ### Son commiti Değiştirmek
 - Son commite dosya eklemek için ; <br>
 `git add .`<br>
-`git commit --amend`<br>
+`git commit --amend` OR git commit --amend --no-edit<br>
 - Commit mesajını değiştirme ;<br>
 `git commit -amend -m "changed commit text"`<br>
 
